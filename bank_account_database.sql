@@ -64,4 +64,3 @@ values('0000000001',1000.20,'cr','2029-01-30'),
 -- and then add foreign keys to the account table to ensure every account record has
 -- a corresponding record in the other two tables
 
-select * from balances;
